@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.item {
+  box-sizing: border-box;
+  border: 5px solid white;
+  height: 100px;
+}
+
+.item:first-child {
+	height: 150px;
+}
